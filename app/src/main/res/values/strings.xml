@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin-spinners</string>
+    <array name="tickets">
+        <item>Ekonomi</item>
+        <item>Bisnis</item>
+        <item>First Class</item>
+    </array>
+</resources>
